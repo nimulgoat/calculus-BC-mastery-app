@@ -1,4 +1,4 @@
-# calculus-BC-mastery-app
+# fun
 everything calc bc. 
 
 I built this to centralize my favorite study resources into a single, structured workflow.
