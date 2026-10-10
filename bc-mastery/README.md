@@ -1,6 +1,8 @@
 # BC Mastery: AP Calculus BC study platform
 
-## Run
+click [here]([url](https://calc1-2-free.vercel.app/)) to use it (blocked on school devices means you will have to download the source and use it locally) 
+
+## Run (only if you plan to use this via websocket) 
     node server.js            # Node 18+, no npm install needed
     open http://localhost:3000
 
@@ -14,3 +16,5 @@ For another device on your network: HOST=0.0.0.0 node server.js, then open http:
 - public/data/lessons.json: Flipped Math lesson index (embedded viewer). Khan Academy links open in a new tab because Khan blocks embedding.
 - Desmos loads only on calculator-active questions and Part B of the simulator.
 - Google Drive sync: Settings lists the 4 setup steps (needs your own OAuth Client ID; works at http://localhost:3000).
+
+creds: gemini for the UI 
