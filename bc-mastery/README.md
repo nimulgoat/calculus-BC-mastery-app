@@ -1,6 +1,6 @@
 # BC Mastery: AP Calculus BC study platform
 
-click [here]([url](https://calc1-2-free.vercel.app/) to use it (blocked on school devices means you will have to download the source and use it locally) 
+click ([here](https://calc1-2-free.vercel.app/)) to use it (blocked on school devices means you will have to download the source and use it locally) 
 
 ## Run (only if you plan to use this via websocket) 
     node server.js            # Node 18+, no npm install needed
